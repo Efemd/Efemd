@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1042819821311639552/1042824943861243904/Banner.png)
+![](https://media.discordapp.net/attachments/1042819821311639552/1042829098722013204/Banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
