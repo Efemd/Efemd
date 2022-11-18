@@ -13,7 +13,8 @@
 </p> 
 
 <p align="center">
-  <img width="50" height="50" src="https://media.discordapp.net/attachments/1042819821311639552/1043088064924368986/NETCore.png?">
+    <img width="50" height="50" src="https://media.discordapp.net/attachments/1042819821311639552/1043211327692349461/Atom.png">
+    <img width="50" height="50" src="https://media.discordapp.net/attachments/1042819821311639552/1043088064924368986/NETCore.png?">
     <img width="50" height="50" src="https://media.discordapp.net/attachments/1042819821311639552/1042837526689370112/C.png">
     <img width="50" height="50" src="https://media.discordapp.net/attachments/1042819821311639552/1042837526999736410/Unity.png">
 </p>
