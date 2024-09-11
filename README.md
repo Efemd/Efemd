@@ -17,5 +17,5 @@
     <img width="50" height="50" src="https://i.hizliresim.com/sxfi6av.png">
     <img width="50" height="50" src="https://i.hizliresim.com/3alh0f0.png">
     <img width="50" height="50" src="https://i.hizliresim.com/8083spo.png">
-    <img width="50" height="50" src="https://i.hizliresim.com/c6r8kkg.png">
+    <img width="50" height="50" src="https://i.hizliresim.com/91kjcb5.png">
 </p>
